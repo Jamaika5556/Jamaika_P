@@ -1,1 +1,2 @@
 # Jamaika_P
+WELCOME TO MY WEBSITE

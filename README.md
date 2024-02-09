@@ -32,7 +32,7 @@
 <h1>3.The Eiffel Tower was supposed to be torn down after 20 years.</h1>
 <h3>The tower was built with the intent of showing off France's industrial prowess during the World's Fair, but the plan was to tear it down after 20 years. However, Eiffel cleverly put a radio antenna and wireless telegraph transmitter in the tower. After proving radio’s usefulness to the government in 1910, Eiffel was granted a 70-year extension to his lease. By 1980, of course, the tower had become an indelible symbol of both Paris and France, and it was in no danger of demolition.</h3>
 
-<h1>4.The Eiffel Tower was almost destroyed during World War II.</h1>
+<h1>4.The Eiffel Tower was almost destroyed during World War II.</h1> 
 <h3>In August 1944, as the Nazis were losing control of occupied Paris, Adolf Hitler commanded his generals to level the city. Plans were drawn up to mine the Eiffel Tower with explosives. Thankfully, Allied troops swooped in before the order could be carried out. Subsequent air raids over Paris caused significant damage, but the Eiffel Tower survived the war intact.</h3>
 
 <h1>5.The Eiffel Tower is a cousin of sorts to the Statue of Liberty.</h1>

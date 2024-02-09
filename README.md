@@ -9,7 +9,7 @@
   <h2>The Eiffel Tower — or, la Tour Eiffel — has long been one of the world's most recognizable landmarks, symbolizing the romance and ingenuity of the City of Light. </h2>
 
   <h3>Designed as the centerpiece of the 1889 World's Fair,the Tower was meant to commemorate the centennial  of the French Revolution and to show off France's modern
-  industrial prowess on a world stage. </h3>
+  industrial prowess on a world stage. </h3> 
 
   <h3>The tower's construction, finished after two years, two months, and five days, was considered a marvel of precision and speed.
   Gustave Eiffel's civil engineering firm used 7,300 tons of iron and 2.5 million rivets, and the result stood triumphant over the Champs de Mars, receiving more than two million

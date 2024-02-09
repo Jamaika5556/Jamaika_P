@@ -44,6 +44,25 @@
 <h2>The tower has been home to several businesses throughout the years, many of which are now gone. These include the newspaper “Le Figaro”, which had an office on the second floor for six months during the 1889 World's Fair, a post office tucked into the first floor, and a wooden theater on the first floor designed by Sauvestre. </h2>
 
 <img src="France2.jpg" witdth="500" height="500" alt="Paris" class="center">
+<h1>The Eiffel Tower doubled as a scientific laboratory.</h1>
+<h2>Eiffel, an avid scientist, housed a meteorology lab on the tower's third floor. He was known to perform studies in physics and aerodynamics there, even building a wind tunnel at the foot of the structure. Eiffel opened the doors of the laboratory for other scientists to use for their experiments as well.</h2>
+
+<h1>The Eiffel Tower moves.</h1>
+<h2>The massive iron structure is wind resistant and will sway during a storm. Wind isn't the only thing that can make the enormous tower move, though — the heat of the sun causes the iron to expand, making the Tower grow a few centimeters during the summer months. The tower will also lean an average of six inches away from the sun, as the one side facing the direct light heats up faster than the other three sides.</h2>
+
+<h1>The Eiffel Tower is covered in the names of scientists.</h1>
+<h2>The names of French scientists and engineers working in the 19th century were not forgotten by history — not only are they attached to several Parisian streets, but 72 of them are also engraved on the Eiffel Tower. The tributes were painted over in the early 20th century, but thanks to a restoration effort in the late 1980s, they are once again visible. Eagle-eyed visitors can see names like Foucault, Dumas, and Perrier cut into the iron surrounding the tower's first floor.</h2>
+
+<h1>It takes a lot of work to keep the Eiffel Tower looking good.</h1>
+<h2>Every seven years, workers apply around 60 tons of paint to the tower. This not only keeps La Dame de Fer looking good, but it also helps keep the iron from rusting.</h2>
+
+<h1>The Eiffel Tower’s sparkling lights are copyrighted art. </h1>
+<h3>The Tower’s first light show coincided with the International Exhibition of Modern Decorative and Industrial Arts in 1925. Automaker Andre Citröen financed a 200,000-bulb show that featured a shower of stars, alternating Zodiac symbols, comets, and (naturally) his car brand’s name at the finale. Another show, featuring 336 yellow-orange spotlights, came sixty years later, but the now-famous sparkling light show, consisting of 20,000 bulbs, first lit up the night sky New Year’s Eve 1999 to ring in the new millennium. While the Tower itself is in the public domain, its illumination is protected by copyright under French law. However, don’t call your lawyer just yet — this only applies to pictures taken for professional use. You’re free to share any personal pictures of the Eiffel Tower and its lights as you please.  </h3>
+
+<h1>There’s a Champagne bar at the top.</h1>
+<h2>If you're brave enough to climb the stairs to the top of the tower, reward yourself with a glass of Champagne from the Champagne Bar. There's nothing like a glass of bubbly with a spectacular view.
+
+No matter the destination, Travel + Leisure GO can turn your vacation dreams into reality. With nearly endless reservation options to fly or stay, book your next getaway — near or far — at Travel + Leisure GO.</h2>
 
 
 

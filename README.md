@@ -16,7 +16,12 @@
   visitors during the fair. </h2>
 
   <h2>The Tower’s now-famous silhouette has been emulated around the world in places like Las Vegas, Prague, Tianducheng, China, and, of course, Paris, Texas. The design wasn’t without its detractors, however — a "Protest against the Tower of Monsieur Eiffel,” signed by the likes of Guy de Maupassant, Alexandre Dumas fils, and other well-known artists, was published in the newspaper Le Temps before the project’s completion. The letter argued that the tower would be “a gigantic black factory chimney, its barbarous mass overwhelming and humiliating all our monuments and belittling our works of architecture, which will just disappear before this stupefying folly.”</h2>
-  
+ 
+  <h2>In defiance of such protests, the Eiffel Tower did see the light of day and has stood the test of time. It remains one of the most visited monuments in the world, welcoming almost seven million visitors a year and more than 300 million people since its debut. It has changed over the years, with the addition of lighting, fresh coats of paint, and numerous installations that have come and gone. </h2>
+
+  <h2> And there’s still more to this landmark than meets the eye. Despite the incredible number of people who have visited since it opened, La Dame de Fer still has a few secrets to share.  </h2>
+
+  <a>https://www.travelandleisure.com/travel-news/eiffel-tower-just-got-taller</a>
                
                
               

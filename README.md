@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 
 
-<h1>FRANCE</h1>
-<img src="Paris.jpj" usemap="#imageMap">
-              <map name="imageMap">
-              <area shape="rect" coords="223,371,541,64" href="file:///C:/Users/Jamaica/OneDrive/Desktop/Papilota.html/photography.html">
+<h1> style="font: size L 100px;px;">  FRANCE  </h1>
+              <img src="Paris.jpg" witdth="500" height="500" alt="Paris" 
+              class="center">

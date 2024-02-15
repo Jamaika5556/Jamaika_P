@@ -61,6 +61,18 @@
 <h3>If you're brave enough to climb the stairs to the top of the tower, reward yourself with a glass of Champagne from the Champagne Bar. There's nothing like a glass of bubbly with a spectacular view.
 
 No matter the destination, Travel + Leisure GO can turn your vacation dreams into reality. With nearly endless reservation options to fly or stay, book your next getaway — near or far — at Travel + Leisure GO.</h3>
+<!-- The video -->
+<video autoplay muted loop id="myVideo">
+  <source src="rain.mp4" type="video/mp4">
+</video>
+
+<!-- Optional: some overlay text to describe the video -->
+<div class="content">
+  <h1>Heading</h1>
+  <p>Lorem ipsum...</p>
+  <!-- Use a button to pause/play the video with JavaScript -->
+  <button id="myBtn" onclick="myFunction()">Pause</button>
+</div>
               
 </body>
 
